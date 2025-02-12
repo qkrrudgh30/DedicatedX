@@ -12,4 +12,10 @@ UCLASS()
 class DEDICATEDX_API ADXPlayerController : public APlayerController
 {
 	GENERATED_BODY()
+
+public:
+	ADXPlayerController();
+
+	virtual void BeginPlay() override;
+	
 };

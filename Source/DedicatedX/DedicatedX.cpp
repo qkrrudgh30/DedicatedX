@@ -1,4 +1,4 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+// DedicatedX.cpp
 
 #include "DedicatedX.h"
 #include "Modules/ModuleManager.h"

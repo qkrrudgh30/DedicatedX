@@ -1,4 +1,4 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+// DedicatedX.h
 
 #pragma once
 
